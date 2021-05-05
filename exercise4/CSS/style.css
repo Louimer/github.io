@@ -1,0 +1,149 @@
+                                                                        body {
+                                                                            font-family: helvetica;
+                                                                            font-size: 14px;
+                                                                        }
+                                                                        
+                                                                        #wrapper {
+                                                                            max-width: 1000px;
+                                                                            margin: 0 auto;
+                                                                        }
+                                                                        
+                                                                        h2 {
+                                                                            font-feature-settings: normal
+                                                                        }
+                                                                        
+                                                                        #img {
+                                                                            width: 100%
+                                                                        }
+                                                                        
+                                                                        #logo {
+                                                                            width: 30%;
+                                                                        }
+                                                                        /* Header
+-----------------------------------------------------------------------------*/
+                                                                        
+                                                                        #header {
+                                                                            height: auto;
+                                                                            background: white;
+                                                                            padding: 5%;
+                                                                        }
+                                                                        /* Middle
+-----------------------------------------------------------------------------*/
+                                                                        
+                                                                        #content {
+                                                                            background-color: whitesmoke;
+                                                                        }
+                                                                        
+                                                                        img {
+                                                                            width: 100%;
+                                                                        }
+                                                                        
+                                                                        #flex {
+                                                                            display: flex;
+                                                                            flex-wrap: wrap;
+                                                                        }
+                                                                        
+                                                                        h2 {
+                                                                            font-weight: bolder;
+                                                                            padding-bottom: 5%;
+                                                                        }
+                                                                        
+                                                                        #s1 {
+                                                                            background-color: whitesmoke;
+                                                                            padding-right: 4%;
+                                                                        }
+                                                                        
+                                                                        #s2 {
+                                                                            background-color: whitesmoke;
+                                                                            padding-right: 4%;
+                                                                        }
+                                                                        
+                                                                        #s3 {
+                                                                            background-color: whitesmoke;
+                                                                        }
+                                                                        /* Footer
+-----------------------------------------------------------------------------*/
+                                                                        
+                                                                        #footer {
+                                                                            height: auto;
+                                                                            background: orange;
+                                                                        }
+                                                                        
+                                                                        @media only screen and (min-width: 450px) {
+                                                                            #header {
+                                                                                background-color: dimgrey;
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        #flex {
+                                                                            display: flex;
+                                                                            flex-wrap: wrap;
+                                                                        }
+                                                                        
+                                                                        #s1 {
+                                                                            width: auto;
+                                                                            margin-right: 2%;
+                                                                        }
+                                                                        
+                                                                        #s2 {
+                                                                            width: 45%;
+                                                                            margin-right: 2%;
+                                                                        }
+                                                                        
+                                                                        #s3 {
+                                                                            width: 45%;
+                                                                        }
+                                                                        
+                                                                        @media only screen and (min-width: 600px) {
+                                                                            #header {
+                                                                                background-color: rebeccapurple;
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        #flex {
+                                                                            display: flex;
+                                                                            flex-wrap: wrap;
+                                                                        }
+                                                                        
+                                                                        #s1 {
+                                                                            width: 43%;
+                                                                            margin-right: 2%;
+                                                                            margin-left: 2%;
+                                                                        }
+                                                                        
+                                                                        #s2 {
+                                                                            width: 43%;
+                                                                            margin-right: 2%;
+                                                                        }
+                                                                        
+                                                                        #s3 {
+                                                                            width: auto;
+                                                                        }
+                                                                        
+                                                                        @media only screen and (min-width: 890px) {
+                                                                            #header {
+                                                                                background-color: lightpink;
+                                                                            }
+                                                                        }
+                                                                        
+                                                                        #flex {
+                                                                            display: flex;
+                                                                            flex-wrap: nowrap;
+                                                                        }
+                                                                        
+                                                                        #s1 {
+                                                                            width: 30%;
+                                                                            margin-right: 1%;
+                                                                            padding-top: 5%;
+                                                                        }
+                                                                        
+                                                                        #s2 {
+                                                                            width: 30%;
+                                                                            margin-right: 1%;
+                                                                            padding-top: 5%;
+                                                                        }
+                                                                        
+                                                                        #s3 {
+                                                                            width: 30%;
+                                                                            padding-top: 5%;
+                                                                        }
